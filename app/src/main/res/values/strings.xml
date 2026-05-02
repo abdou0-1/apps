@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="sensor_not_available">Sensor not available</string>
+    <string name="distance_text">Distance: %1$.2f m</string>
+</resources>
